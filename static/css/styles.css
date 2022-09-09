@@ -1,0 +1,26 @@
+body {
+    background-color: #ff6a6a;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #b2f48085;
+}
+
+a {
+    color: #8300d5;
+}
+
+a:hover {
+    color: #b2f48085;
+  }
+
+.navbar-header {
+    float: left;
+    padding: 25px;
+    text-align: center;
+    width: 150%;
+}
+
+.navbar-brand {float:none;
+    font-size: 75px;}
